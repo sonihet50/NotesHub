@@ -1,0 +1,15 @@
+Git For Notes
+
+A web platform where users can store there notes may it be digital or photocopy (in a sense a .pdf file or .txt) so that they can retrieve them whenever they need.
+
+
+Features:
+- SignIn/SignUp
+- Profile
+- Upload Notes
+- Make your Notes Public or Private (analogous to repo being public or private)
+- Search for Notes on particular subjects (Ofcourse from the public Notes)
+- A review system or a chatting system where users can review any subjects (e.g Operating System) based on its need for a particular career direction
+(Ofcourse if professionals onboard the platform then their reviews hold more credit)
+- Thus users can look for a career guidance(not like a chatbot but they can search for a career and look at what subjects are needed for it)
+- A forum for people of speak about corporate life in a healthy manner
