@@ -1,8 +1,8 @@
-# NotesHub 🚀
+# NotesHub 
 
 NotesHub is a powerful, community-driven note-taking platform designed for students and professionals. It combines rich-text editing with advanced organization, version control, and social features.
 
-## ✨ Features
+## Features
 
 - **Rich Text Editor**: Powered by Tiptap, support for headings, lists, code blocks, and blockquotes.
 - **PDF Support**: Upload and view PDF documents directly within your notes.
@@ -13,7 +13,7 @@ NotesHub is a powerful, community-driven note-taking platform designed for stude
 - **Bookmarking**: Save important public notebooks to your personal bookmarks for quick access.
 - **User Profiles**: Showcase your public work and discover others' contributions.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React** (Vite)
@@ -52,6 +52,3 @@ NotesHub is a powerful, community-driven note-taking platform designed for stude
    npm run dev
    ```
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
