@@ -27,7 +27,7 @@ NotesHub is a powerful, community-driven note-taking platform designed for stude
 - **Spring Security + JWT** (Authentication)
 - **Hibernate/JPA** (Data Persistence)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - JDK 17+
